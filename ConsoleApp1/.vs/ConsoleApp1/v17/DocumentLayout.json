@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\UT010732\\Desktop\\New folder\\GroupProject\\ConsoleApp1\\",
+  "WorkspaceRootPath": "C:\\Users\\UT010732\\Desktop\\git\\GroupProject\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E624CE6C-6A25-4609-B54C-90D2D03B27FE}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\ut010732\\desktop\\new folder\\groupproject\\consoleapp1\\consoleapp1\\persion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E624CE6C-6A25-4609-B54C-90D2D03B27FE}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\ut010732\\desktop\\git\\groupproject\\consoleapp1\\consoleapp1\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E624CE6C-6A25-4609-B54C-90D2D03B27FE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E624CE6C-6A25-4609-B54C-90D2D03B27FE}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\ut010732\\desktop\\git\\groupproject\\consoleapp1\\consoleapp1\\persion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E624CE6C-6A25-4609-B54C-90D2D03B27FE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\persion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E624CE6C-6A25-4609-B54C-90D2D03B27FE}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\ut010732\\desktop\\new folder\\groupproject\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E624CE6C-6A25-4609-B54C-90D2D03B27FE}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\ut010732\\desktop\\git\\groupproject\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E624CE6C-6A25-4609-B54C-90D2D03B27FE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -27,28 +31,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "School.cs",
+              "DocumentMoniker": "C:\\Users\\UT010732\\Desktop\\git\\GroupProject\\ConsoleApp1\\ConsoleApp1\\School.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\School.cs",
+              "ToolTip": "C:\\Users\\UT010732\\Desktop\\git\\GroupProject\\ConsoleApp1\\ConsoleApp1\\School.cs",
+              "RelativeToolTip": "ConsoleApp1\\School.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T11:49:07.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Persion.cs",
-              "DocumentMoniker": "C:\\Users\\UT010732\\Desktop\\New folder\\GroupProject\\ConsoleApp1\\ConsoleApp1\\Persion.cs",
+              "DocumentMoniker": "C:\\Users\\UT010732\\Desktop\\git\\GroupProject\\ConsoleApp1\\ConsoleApp1\\Persion.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Persion.cs",
-              "ToolTip": "C:\\Users\\UT010732\\Desktop\\New folder\\GroupProject\\ConsoleApp1\\ConsoleApp1\\Persion.cs",
+              "ToolTip": "C:\\Users\\UT010732\\Desktop\\git\\GroupProject\\ConsoleApp1\\ConsoleApp1\\Persion.cs",
               "RelativeToolTip": "ConsoleApp1\\Persion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-02T11:44:15.976Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\UT010732\\Desktop\\New folder\\GroupProject\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\UT010732\\Desktop\\git\\GroupProject\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "C:\\Users\\UT010732\\Desktop\\New folder\\GroupProject\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\UT010732\\Desktop\\git\\GroupProject\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T11:42:38.169Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-02T11:42:38.169Z"
             }
           ]
         }
